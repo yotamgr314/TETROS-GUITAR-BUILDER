@@ -3,7 +3,11 @@
 import React, { useState, useEffect, useRef } from "react";
 import { Box, Fade, Typography } from "@mui/material";
 
-const coverImages = ["/guitarCoverPhoto.png", "/coverPhoto2.png", "/yoga4.png"];
+const coverImages = [
+  "/coverPhoto2.png",
+  "/guitarCoverPhoto.png",
+  "/handMadeCover.png",
+];
 const overlayTexts = ["Build Your Dream Guitar", "Crafted for Your Sound"];
 
 const CoverCarousel = ({ interval = 5000 }) => {
