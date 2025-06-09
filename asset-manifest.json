@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TETROS-GUITAR-BUILDER/static/css/main.8c3a8774.css",
+    "main.js": "/TETROS-GUITAR-BUILDER/static/js/main.d0c61aba.js",
+    "index.html": "/TETROS-GUITAR-BUILDER/index.html",
+    "main.8c3a8774.css.map": "/TETROS-GUITAR-BUILDER/static/css/main.8c3a8774.css.map",
+    "main.d0c61aba.js.map": "/TETROS-GUITAR-BUILDER/static/js/main.d0c61aba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c3a8774.css",
+    "static/js/main.d0c61aba.js"
+  ]
+}
